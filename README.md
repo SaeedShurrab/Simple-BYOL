@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/55782331/137846890-28d6fbe6-04d0-499f-a19d-5ca5ee794a4e.png)
 # Simple-BYOL
-A simple pytorch implementation of  [Bootstrap your own latent: A new approach to self-supervised Learning][https://arxiv.org/abs/2006.07733] which is developed by Google DeepMind group as a self-supervised learning approach that omits the need for negative samples.
+A simple pytorch implementation of [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733) which is developed by Google DeepMind group as a self-supervised learning approach that omits the need for negative samples.
 
 
 
